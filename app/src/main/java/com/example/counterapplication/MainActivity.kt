@@ -1,4 +1,4 @@
-package com.example.counterapp
+package com.example.counterapplication
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
